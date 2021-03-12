@@ -6,6 +6,7 @@ The way data are parsed to be displayed requires a specific format, I'll publish
 
 # Environment 
 pip install dash==1.19.0
+pip install dash-bootstrap-components
 
 
 # Usage 
